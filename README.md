@@ -120,4 +120,4 @@ Once running, you can visit:
 
 ## Documentation
 
-![FastAPI](https://share.google/MPtlvCV8I0blMRUs2)
+[FastAPI](https://share.google/MPtlvCV8I0blMRUs2)
