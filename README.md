@@ -50,17 +50,21 @@ Make sure you have the following installed:
 ## Create a virtual environment
 
 python -m venv venv  
+
 venv\Scripts\activate         # On Windows
+
 python.exe -m pip install --upgrade pip    #upgrade pip
 
 ## 🎯 **Installation**
 
 pip install "fastapi[standard]"
+
 pip install "uvicorn[standard]"
 
 ## Run the server
 
 uvicorn main:app --reload
+
 uvicorn index:app --reload
 
 ## Other installation
@@ -79,13 +83,21 @@ pip install python.multipart
 
 .
 ├── main.py            # FastAPI application bootstrap
+
 ├── routes/            # API route handlers
+
 ├── models/            # Database models / schemas
+
 ├── schemas/           # Pydantic schemas
+
 ├── config/            # DB & env setup
+
 ├── requirements.txt   # Dependencies
+
 ├── static/            # Static files (optional)
+
 ├── templates/         # HTML templates (optional)
+
 └── README.md
 
 ## API Endpoints
