@@ -51,7 +51,7 @@ Make sure you have the following installed:
 
 python -m venv venv  
 
-venv\Scripts\activate                           # On Windows
+venv\Scripts\Activate.ps1                           # On Windows
 
 python.exe -m pip install --upgrade pip              #upgrade pip
 
@@ -121,3 +121,11 @@ Once running, you can visit:
 ## Documentation
 
 [FastAPI](https://share.google/MPtlvCV8I0blMRUs2)
+
+[jija2](https://share.google/CeOgyWq1ilynr6QVt)
+
+[MongoDB Atlas](https://www.mongodb.com/cloud/atlas/register?utm_campaign=cwh)
+
+[MongoDB cheatseat](https://share.google/LBCerl01lNBCJuqeW)
+
+[FastAPI with MongoDB](https://www.mongodb.com/developer/technologies/fastapi/?utm_campaign=cwh)
