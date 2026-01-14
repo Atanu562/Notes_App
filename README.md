@@ -51,9 +51,9 @@ Make sure you have the following installed:
 
 python -m venv venv  
 
-venv\Scripts\activate         # On Windows
+venv\Scripts\activate                           # On Windows
 
-python.exe -m pip install --upgrade pip    #upgrade pip
+python.exe -m pip install --upgrade pip              #upgrade pip
 
 ## 🎯 **Installation**
 
@@ -70,7 +70,9 @@ uvicorn index:app --reload
 ## Other installation
 
 pip install jija2
+
 pip install pymongo
+
 pip install python.multipart
 
 1. **Clone the repository**
