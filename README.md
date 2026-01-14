@@ -117,3 +117,7 @@ Once running, you can visit:
 | PUT    | `/notes/{id}` | Update note       |
 | DELETE | `/notes/{id}` | Delete note       |
 
+
+## Documentation
+
+![FastAPI](https://share.google/MPtlvCV8I0blMRUs2)
